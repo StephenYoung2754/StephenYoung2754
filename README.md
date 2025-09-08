@@ -1,32 +1,22 @@
 
-#   👋 Hello! I'm **Stephen Young (@StephenYoung2754)**
+#   Hello! I'm **Stephen Young (@StephenYoung2754)**
 
->   I write low-level code in `Assembly`, `C`, `Rust`, and beyond.
->   I also develop computational physics tools in `Fortran`, `C`, `Python`, and `Rust`.
-
----
-
-##  🧠 About Me
-
--   Highschool student who focuses on Physics (especially computational physics)
--   Also interested in system development
+>   I focus on low-level programming in `Assembly`, `C`, and `Rust`.  
+>   I am currently developing a system-level programming language named `τ` and its standard library.
 
 ---
 
-##  🧰 Tech Stack
+## About Me
 
-``` tech stack
-Languages:  Assembly    |   Fortran |   C89&C99 |   Python  |   Rust
-Tools:      VIM/NeoVIM  |   VSCode  |   CLion   |   PyCharm |   RustRover
-Systems:    BIOS&UEFI   |   macOS   |   Linux   |   FreeBSD |   Windows
-```
-
--   Building: bootloader, compiler, kernel, drivers
+-   Low-level language programmer with a focus on system architecture and operating system development.
+-   Interested in compiler design, instruction set architectures (x86_64, AArch64, RISC-V), and systems programming.
+-   Dedicated to building reliable, efficient, and extensible tools for future software infrastructure.
 
 ---
 
-##  📫 Contact Me
+## Contact Me
 
--   🌐 Website:    (My Personal Website)[https://stephenyoung2754.com]
--   📧 Email:      stephenyoung2754@gmail.com
+If you have questions or ideas regarding my projects, please feel free to reach out.  
+I am available via GitHub or email, and I will respond as soon as possible.  
 
+-   Email: **stephenyoung2754@outlook.com**
